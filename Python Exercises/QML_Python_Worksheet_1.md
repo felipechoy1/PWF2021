@@ -1,10 +1,8 @@
 ```python
-# Filename: QML_Python_Worksheet_1.ipynb
-# Authors: Felipe Ixcamparic, Subadra Echeverria, M. Cerezo
+# Filename: QML_Python_Worksheet_1.md
+# Authors: Subadra Echeverria, Felipe Ixcamparic, M. Cerezo
 # Date: November 29, 2021
-# Description: First python exercice sheet.
-# Note: Unfortunately, github does not support inline latex equations, thus, the latex equations are NOT displayed correctly here. 
-#       For an easy fix, download the notebook and open it on google collab.
+# Description: QML_Python_Worksheet_1.ipynb visualization. Teaching porpuse only
 ```
 
 # QML Python Worksheet
