@@ -409,8 +409,9 @@ t0 = np.random.rand() * 2 * np.pi
 out = minimize(cost_function, x0, method="COBYLA", options={'maxiter':300}, callback=callback)
 ```
 
-**Exercice 3:** 
-Define a cost function <img src = "https://render.githubusercontent.com/render/math?math=C(\theta)"> that takes as input a parameter <img src = "https://render.githubusercontent.com/render/math?math=\theta"> and outputs <img src = "https://render.githubusercontent.com/render/math?math=\langle\psi(\theta)\left|Z\right|\psi(\theta)\rangle">
+**Exercice 4:** 
+Verify that the optimization finds the correct solution of 
+<img src = "https://render.githubusercontent.com/render/math?math=\theta=\pi\,\,\text{mod}(2\pi)">
 
 **Exercice 5:** 
 Plot the cost function value versus iteration step.
