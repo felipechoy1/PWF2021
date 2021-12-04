@@ -1928,7 +1928,7 @@ for i in range(n_trainin):
 print("El porecentaje con los datos de testing es de " +str(counter*100/n_training)+ "%")
 ```
 
-    El porecentaje con los datos de testing es de 87.5%
+    El porecentaje con los datos de training es de 87.5%
 
 
 
